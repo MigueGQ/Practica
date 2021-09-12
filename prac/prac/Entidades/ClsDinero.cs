@@ -8,18 +8,12 @@ namespace prac.Entidades
 {
     class ClsDinero
     {
-        private int dato;
+        private int dinero;
 
-        public int Dato { get => dato; set => dato = value; }
-
-        public ClsDinero(int dato)
-        {
-            this.Dato = dato;
-        }
+        public int Dinero { get => dinero; set => dinero = value; }
 
         public ClsDinero()
         {
-     
         }
     }
 }

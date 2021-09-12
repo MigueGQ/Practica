@@ -15,12 +15,7 @@ namespace prac
             ClsDinero clsdinero = new ClsDinero();
             NClsDinero nclsdinero = new NClsDinero();
 
-            Console.WriteLine("Escriba 1 si quiere sacar dinero ");
-            int dato = Convert.ToInt32(Console.ReadLine());
-
-            ClsDinero dinero = new ClsDinero(dato);
-
-            Console.WriteLine(nclsdinero.Ciclo(dinero));
+            Console.WriteLine(nclsdinero.Ciclo());
         }
     }
 }

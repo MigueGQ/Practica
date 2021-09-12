@@ -5,3 +5,10 @@ C:\Users\Guardado\source\repos\prac\prac\obj\Debug\prac.csproj.AssemblyReference
 C:\Users\Guardado\source\repos\prac\prac\obj\Debug\prac.csproj.CoreCompileInputs.cache
 C:\Users\Guardado\source\repos\prac\prac\obj\Debug\prac.exe
 C:\Users\Guardado\source\repos\prac\prac\obj\Debug\prac.pdb
+C:\Users\Guardado\Documents\GitHub\Practica\prac\prac\bin\Debug\prac.exe.config
+C:\Users\Guardado\Documents\GitHub\Practica\prac\prac\bin\Debug\prac.exe
+C:\Users\Guardado\Documents\GitHub\Practica\prac\prac\bin\Debug\prac.pdb
+C:\Users\Guardado\Documents\GitHub\Practica\prac\prac\obj\Debug\prac.csproj.AssemblyReference.cache
+C:\Users\Guardado\Documents\GitHub\Practica\prac\prac\obj\Debug\prac.csproj.CoreCompileInputs.cache
+C:\Users\Guardado\Documents\GitHub\Practica\prac\prac\obj\Debug\prac.exe
+C:\Users\Guardado\Documents\GitHub\Practica\prac\prac\obj\Debug\prac.pdb
