@@ -1,0 +1,26 @@
+c:\users\alumnos\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\alumnos\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\alumnos\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\alumnos\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\alumnos\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\alumnos\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\alumnos\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\alumnos\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+c:\users\alumnos\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\alumnos\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vistas.Venta.resources
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vistas.FrmDivision.resources
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vistas.FrmMenuApp.resources
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vistas.FrmMultiplicacion.resources
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vistas.FrmResta.resources
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vistas.FrmSuma.resources
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vistas.Venta.resources
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Guardado\Documents\GitHub\Practica\WindowsFormsApp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
